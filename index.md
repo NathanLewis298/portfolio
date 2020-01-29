@@ -16,8 +16,8 @@
 
 
 
-| Product       | Cost          | Profit|
-| ------------- |:-------------:| -----:|
-| Bitcoin       | $600          | $1600 |
-| Hamsters      | $6            |   $12 |
-| Haribos       | 50p           |    $1 |
+| Product       | Cost          | Sell value|
+| ------------- |:-------------:| ---------:|
+| Bitcoin       | $600          | $1600     |
+| Hamsters      | $6            |   $12     |
+| Haribos       | 50p           |    $1     |
