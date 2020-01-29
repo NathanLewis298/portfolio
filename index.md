@@ -13,3 +13,11 @@
 
 [How I got Here](https://www.youtube.com/watch?v=3CiZnbTB7tQ)
 
+
+
+
+| Product       | Cost          | Profit|
+| ------------- |:-------------:| -----:|
+| Bitcoin       | $600          | $1600 |
+| Hamsters      | $6            |   $12 |
+| Haribos       | 50p           |    $1 |
