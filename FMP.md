@@ -8,21 +8,21 @@
   <a target="_blank" href="assets/FMP/Game1.png">
     <img src="assets/FMP/Game1.png" alt="Title Screen" width="600" height="400">
   </a>
-  <div class="desc">This is the area where you buy new money generators </div>
+  <div class="desc">This is the area where the player can buy new money generators </div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/FMP/Game2.png">
     <img src="assets/FMP/Game2.png" alt="Art work and gameplay" width="600" height="400">
   </a>
-  <div class="desc">This shows the menu which the player is able to buy upgrades for their money generators</div>
+  <div class="desc">This shows the menu in which the player is able to buy upgrades for their money generators</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/FMP/Game3.png">
     <img src="assets/FMP/Game3.png" alt="Paused" width="600" height="400">
   </a>
-  <div class="desc">This shows the menu in which the player can convert the money into tokens</div>
+  <div class="desc">This shows the menu in which the player can convert their money into tokens</div>
 </div>
 
 <div class="gallery">
