@@ -1,6 +1,6 @@
 # FMP-Game
 
-<a href="Game.html"> Play.</a>
+By All means feel free to play Recyling Tycoon.(Built for WebGL) <a href="Game.html"> Play.</a>
 
 [Gameplay Of Recycling Tycoon](https://www.youtube.com/watch?v=FUnbJSodNH4)
 
