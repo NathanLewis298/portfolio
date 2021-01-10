@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Gallery
-
+## Year 1 Practical project -Spooky Scary Steve:
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/1.jpg">
@@ -32,3 +32,7 @@ layout: default
   </a>
   <div class="desc">This shows an enemy and how you destroy them</div>
 </div>
+
+# Year 2 Practical project - The Museum;
+
+[Gameplay Video of The Museum prototype (Full audio)](https://youtu.be/oX-O31sE2hU)
