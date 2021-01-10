@@ -33,6 +33,6 @@ layout: default
   <div class="desc">This shows an enemy and how you destroy them</div>
 </div>
 
-# Year 2 Practical project - The Museum;
+# Year 2 Practical project - The Museum:
 
 [Gameplay Video of The Museum prototype (Full audio)](https://youtu.be/oX-O31sE2hU)
