@@ -15,6 +15,7 @@ One of my biggest desires is to work as part of a team, as I am a highly sociabl
 I have over 3 years of experience in Construct 3, Unity, C#, Python (Programming language), Visual studios, GitHub and Sourcetree
 
 Currently I am working on the 2nd year of Game Design level 3 after achieving a distinction grade in the first year and I am currently on track for a distinction this year which is equivalent to 3 A-Levels.
+
 I am fluent in English language. 
 
 
